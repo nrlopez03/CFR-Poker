@@ -1,4 +1,4 @@
-# CS136-Project
+# CFR-Poker
 Nicholas Lopez and Elliot Chin
 
 January 20, 2024
